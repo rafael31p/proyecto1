@@ -2,4 +2,4 @@ Este es mi primer archivo txt
 
 con mi primer commit
 
-De: Rafael Peña Hi Hi
+De: Rafael Peña Esta es la historia de mi libro
