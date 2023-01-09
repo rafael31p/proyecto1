@@ -34,3 +34,9 @@ body
     color: aquamarine;
     font-size: 20px ;
 }
+#Boton1
+{
+    text-align: center;
+    color: #88f;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
