@@ -60,12 +60,14 @@ body
     cursor: pointer;
     border: none;
 }
-#footer
+#miPrimerFooter
 {
     text-align: center;
     color: aliceblue;
-    background-color: rgba(22, 252, 175, 0.763);
+    background-color: grey;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    border-radius: 5px;
+    border: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0.5em;
 }
