@@ -4,3 +4,5 @@ Este proyecto nos permite ir mostrando paso a paso segun con la guía del curso 
 >- Por Rafael Peña
 
 * Hay que lograr que nuestros proyectos se cumplan.
+* Se esta trabajando en incluir la adaptación a otros idiomas.
+* Se planea salir a producción el 4 de febrero.
